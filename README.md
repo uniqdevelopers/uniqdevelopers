@@ -1,7 +1,8 @@
 
 🚀 **UniqDevelopers** 🚀
-- 💬 Ask me about [Works/Interest].
-- 📫 How to reach me: [7010907982,6383951778].
+- 💬 Ask us about : [Works/Interest].
+- 📫 How to reach us : [7010907982,6383951778].
+
 
 Welcome to the official GitHub repository of UniqDevelopers! We are a dynamic team of developers dedicated to crafting unique solutions and pushing the boundaries of technology. Our mission is to empower individuals and businesses through innovative software solutions.
 
